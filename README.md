@@ -33,7 +33,7 @@ If you only wish to use it in terminal, just the new Xresources is required.
 
 ## Tips
 
-Head over to [husl-colors.org](www.husl-colors.org/syntax/) to generate well behaved themes
+Head over to [husl-colors.org](http://www.husl-colors.org/syntax/) to generate well behaved themes
 based on base16. You can then run the __genmod8.sh__ script to give you the terminal colors, and the mod8 theme.
 
 ## Links & Credits
