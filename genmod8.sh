@@ -88,13 +88,14 @@ echo
 cat << EOF > ${themename}
 " mod8 vim theme
 " modified version of base16 (https://github.com/chriskempson/base16)
+" generated using genmod8.sh
 " --------------------------------------------------------------------------
 " * Dark theme only
 " * Free up unused colors for .Xresources
 "
 
 " Theme setup
-let g:colors_name = "mod8"
+let g:colors_name = "${themename}"
 hi clear
 syntax reset
 set background=dark

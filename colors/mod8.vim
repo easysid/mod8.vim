@@ -1,6 +1,6 @@
-" mod8-dark.vim
+" mod8.vim
 " modified version of base16 (https://github.com/chriskempson/base16)
-" easysid Thursday, 04 February 2016
+" generated using genmod8.sh
 " --------------------------------------------------------------------------
 " * Dark theme only
 " * Free up unused colors for .Xresources
