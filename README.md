@@ -39,7 +39,7 @@ based on base16. You can then run the __genmod8.sh__ script to give you the term
 ## Links & Credits
 
 * [base16 repo](https://github.com/chriskempson/base16) by Chris Kempson.
-* [HUSL](www.husl-colors.org) - Random syntax colorschemes.
+* [HUSL](http://www.husl-colors.org) - Random syntax colorschemes.
 * [harmonic16](http://janniks.github.io/harmonic16/) - A color generator for harmonic base16 colorschemes.
 
 ## TODO
